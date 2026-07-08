@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-**Activity**
+### **Activity**
 
 - 시스웨어AI(26.01\~26.06)  
 - 쌍용교육센터 11기(25.04\~25.11)  
